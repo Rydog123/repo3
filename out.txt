@@ -1,0 +1,5 @@
+badidea.txt
+goodidea.txt
+out.txt
+readme.txt
+urmom
